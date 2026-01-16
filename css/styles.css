@@ -79,6 +79,9 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
 }
+.hero {
+  cursor: pointer;
+}
 .button-title:hover,
 .button-title:focus {
   background: #404bbf;
@@ -93,7 +96,7 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.feature-tekst {
+.feature-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -102,7 +105,7 @@ a {
 }
 
 /* section team */
-.maim-team { 
+.main-team { 
   background: #f4f4fd;
 }
 
@@ -125,7 +128,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.team-tekst {
+.team-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -156,7 +159,7 @@ a {
   color: #2e2f42;
 }
 
-.portfolio-tekst {
+.portfolio-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -170,7 +173,7 @@ a {
   background: #2e2f42;
 }
 
-.footer-tekst {
+.footer-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
